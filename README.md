@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Myself Alvi and I'm a student from Bangladesh</h2>
+<h2 align="center">Hi 👋! Myself Alvi and I'm a student from Bangladesh</h2>
 
 ###
 
