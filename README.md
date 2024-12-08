@@ -84,6 +84,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alvi082/alvi082/output/snake.svg" alt="Snake animation" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvi082" alt="alvi082" /></a> </p>
+
 
 ###
