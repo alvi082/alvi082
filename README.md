@@ -78,11 +78,9 @@
 
 ###
 
-<img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
+<img align="right" height="135" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 
 ###
-
-<br clear="both">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvi082" alt="alvi082" /></a> </p>
 
