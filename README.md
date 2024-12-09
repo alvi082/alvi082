@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am passionate in Machine Learning, Deep Learning, Digital Image processing</p>
+<p align="center">I am passionate in Data Science, Machine Learning, Deep Learning, Digital Image processing</p>
 
 ###
 
